@@ -10,7 +10,7 @@ A fun and engaging dice game built with React! Roll dice, hold your favorites, a
 
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
+- [Preview](#preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Game Rules](#game-rules)
@@ -32,6 +32,13 @@ Tenzies is a digital adaptation of the popular dice game where players race to g
 - 📱 **Responsive Design**: Works great on desktop and mobile devices
 - 🎨 **Clean UI**: Modern, intuitive interface with smooth interactions
 - 🔄 **New Game**: Instantly start a fresh game after winning
+
+## 🖥️ Preview
+
+See Tenzies in action:
+
+![Tenzies Gameplay GIF](tenzies-preview.gif)
+
 
 ## 🚀 Installation
 
